@@ -14,6 +14,7 @@ btns.forEach(function(btn){
         } else if(styles.contains('reset')){
             count=0;
         } else{
+            
             count++;
         }
         if(count>0){
